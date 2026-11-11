@@ -24,7 +24,7 @@ Select relevant OTX/SOC Radar intelligence, validate indicators and assess local
 ## 4. Evidence
 | Evidence ID | Link |
 |---|---|
-| E-01 | [screenshot]() |
+| E-01 | [screenshot](https://github.com/Isaiah-cy/Threat-Intelligence-Assessment/tree/main/screenshots) |
 
 ## 5. Findings and analysis
 [What did you observe? Distinguish observed facts from hypotheses.]
