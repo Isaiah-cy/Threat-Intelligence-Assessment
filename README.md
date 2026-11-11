@@ -22,9 +22,9 @@ Select relevant OTX/SOC Radar intelligence, validate indicators and assess local
 3. [Validation and review]
 
 ## 4. Evidence
-| Evidence ID | Sanitized artifact | What it proves |
-|---|---|---|
-| E-01 | [Relative link to approved image/query/report] | [Claim supported] |
+| Evidence ID | Link |
+|---|---|
+| E-01 | [screenshot]() |
 
 ## 5. Findings and analysis
 [What did you observe? Distinguish observed facts from hypotheses.]
@@ -39,6 +39,6 @@ Select relevant OTX/SOC Radar intelligence, validate indicators and assess local
 [Technical and process improvements.]
 
 ## 8. References
-[Vendor documentation, standards and relevant public sources.]
+[ISO 27001 Annex A 5.7]
 
-> Do not publish confidential company/customer information. Remove this template note when complete.
+
